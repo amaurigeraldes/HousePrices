@@ -24,7 +24,7 @@ https://github.com/amaurigeraldes/HousePrices/blob/main/Projeto_House_Prices_Dat
 - Plotamos o Gráfico Comparativo para os 3 Modelos:
 <img src="https://github.com/amaurigeraldes/HousePrices/blob/main/imagens/graficos_modelos_previsao.png">
 
-- Analisamos e concluimos nesta etapa que o melhor Modelo foi o da **Regressão Linear** por ter sido o algoritmo com menor erro quadrático médio, a mesma métrica utilizada pelo Kaggle para a classificação dos modelos.
+- Analisamos e concluimos que nesta etapa o melhor Modelo foi o da **Regressão Linear** por ter sido o algoritmo com menor erro quadrático médio, a mesma métrica utilizada pelo Kaggle para a classificação dos modelos.
 
 
 - O resultado obtido e submetido ao Kaggle foi:
