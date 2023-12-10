@@ -3,7 +3,8 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 ## Projeto de Ciência de Dados para Previsão de Valores de Imóveis
 
-- O arquivo 
+- O arquivo utilizado para o desenvolvimento está disponível neste mesmo repositório através do Link:
+https://github.com/amaurigeraldes/HousePrices/blob/main/Projeto_House_Prices_Dataset_Kaggle_v01.ipynb
 
 ## Etapa 01: Primeiro Modelo
 - Efetuamos nesta primeira fase tratamentos bastante simplistas nas Bases de Dados de Treino e de Teste, antes da aplicação dos Modelos, tais como:
