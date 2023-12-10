@@ -8,4 +8,7 @@ Projeto de Ciência de Dados utilizando Algoritmos/Modelos para a Previsão de V
 
 
 
+- O resultado obtido foi:
+  
+
 
