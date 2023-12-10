@@ -3,6 +3,8 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 ## Projeto de Ciência de Dados para Previsão de Valores de Imóveis
 
+- O arquivo 
+
 ## Etapa 01: Primeiro Modelo
 - Efetuamos nesta primeira fase tratamentos bastante simplistas nas Bases de Dados de Treino e de Teste, antes da aplicação dos Modelos, tais como:
   1) Exclusão de features com a porcentagem de valores nulos/vazios superior a 10%;
