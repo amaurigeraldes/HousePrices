@@ -1,7 +1,7 @@
 - Este repositório foi elaborado para explicar o Projeto do Kaggle: **HousePrices**
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/submissions
 
-## Projeto de Ciência de Dados para Previsão de Valores de Imóveis
+# Projeto Ciência de Dados: Prever Valores de Imóveis
 
 - O arquivo utilizado para o desenvolvimento está disponível neste mesmo repositório através do Link:
 https://github.com/amaurigeraldes/HousePrices/blob/main/Projeto_House_Prices_Dataset_Kaggle_v01.ipynb
@@ -25,6 +25,7 @@ https://github.com/amaurigeraldes/HousePrices/blob/main/Projeto_House_Prices_Dat
 <img src="https://github.com/amaurigeraldes/HousePrices/blob/main/imagens/graficos_modelos_previsao.png">
 
 - Analisamos e concluimos nesta etapa que o melhor Modelo foi o da **Regressão Linear** por ter sido o algoritmo com menor erro quadrático médio, a mesma métrica utilizada pelo Kaggle para a classificação dos modelos.
+
 
 - O resultado obtido e submetido ao Kaggle foi:
 <img src="https://github.com/amaurigeraldes/HousePrices/blob/main/imagens/Resultado_Kaggle_HousePrices_01.jpg">
